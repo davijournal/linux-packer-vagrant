@@ -51,7 +51,7 @@
     "post-processors": [
 	{
 	    "type": "vagrant",
-	    "output": "builds/{{.Provider}}-centos-6-8-{{isotime \"2006-01-02\"}}.box"
+	    "output": "builds/{{.Provider}}-centos6-8.box"
 	}
     ]
 }
